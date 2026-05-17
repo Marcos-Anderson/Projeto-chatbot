@@ -1,6 +1,6 @@
 # Projeto Chatbot - Supermercado São Francisco
 
-Este repositório apresenta um projeto de desenvolvimento de chatbot voltado para um pequeno supermercado localizado em Dormentes - PE. A proposta foi desenvolvida em contexto acadêmico, com a participação de estudantes e monitoria, buscando aplicar conceitos de tecnologia, atendimento automatizado e melhoria da comunicação com clientes.
+Este repositório apresenta um projeto de desenvolvimento de chatbot voltado para um pequeno supermercado localizado em Dormentes - PE. A proposta foi desenvolvida em contexto acadêmico, com participação de estudantes e monitoria, buscando aplicar conceitos de tecnologia, atendimento automatizado, metodologia ágil e melhoria da comunicação com clientes.
 
 ## Sobre o projeto
 
@@ -16,7 +16,9 @@ Entre as informações que o chatbot pode fornecer estão:
 
 ## Objetivo
 
-O objetivo do chatbot é facilitar a comunicação entre o supermercado e seus clientes, oferecendo respostas rápidas e padronizadas para perguntas frequentes. Com isso, o supermercado pode melhorar o atendimento sem depender exclusivamente de uma pessoa disponível o tempo todo para responder mensagens.
+O objetivo do chatbot é facilitar a comunicação entre o supermercado e seus clientes, oferecendo respostas rápidas e padronizadas para perguntas frequentes.
+
+Com isso, o supermercado pode melhorar o atendimento sem depender exclusivamente de uma pessoa disponível o tempo todo para responder mensagens, tornando o processo mais ágil, organizado e acessível para os clientes.
 
 ## Contexto de desenvolvimento
 
@@ -24,7 +26,23 @@ Este projeto foi desenvolvido como parte de uma atividade acadêmica, com partic
 
 A proposta buscou atender uma necessidade real de um pequeno comércio local, aproximando os conhecimentos estudados em sala de aula da realidade de pequenas empresas.
 
+## Metodologia de desenvolvimento
+
+O projeto foi desenvolvido utilizando conceitos da metodologia ágil Scrum, com organização das atividades em etapas, definição de tarefas e acompanhamento do progresso da equipe.
+
+Durante o desenvolvimento, foram trabalhadas práticas como:
+
+- Levantamento e organização dos requisitos do chatbot;
+- Divisão das atividades entre os participantes;
+- Planejamento das funcionalidades em ciclos de desenvolvimento;
+- Acompanhamento das tarefas em equipe;
+- Revisão e melhoria dos fluxos de conversa do chatbot.
+
+A utilização do Scrum ajudou a manter o projeto mais organizado, facilitando a comunicação entre os participantes e permitindo acompanhar melhor a evolução da solução.
+
 ## Funcionalidades previstas
+
+O chatbot foi pensado para atender dúvidas frequentes dos clientes de forma simples e objetiva. Entre as funcionalidades previstas estão:
 
 - Saudação inicial ao cliente;
 - Respostas automáticas para perguntas frequentes;
@@ -32,7 +50,7 @@ A proposta buscou atender uma necessidade real de um pequeno comércio local, ap
 - Consulta de horário de funcionamento;
 - Informações sobre promoções;
 - Encaminhamento para atendimento humano quando necessário;
-- Organização dos fluxos de conversa de forma simples e objetiva.
+- Organização dos fluxos de conversa de forma clara e acessível.
 
 ## Tecnologias e ferramentas
 
@@ -43,13 +61,17 @@ As tecnologias e ferramentas utilizadas ou previstas no projeto incluem:
 - Node.js;
 - JavaScript;
 - GitHub;
-- Conceitos de chatbot e atendimento automatizado.
+- Conceitos de chatbot;
+- Conceitos de atendimento automatizado;
+- Metodologia ágil Scrum.
 
 ## Minha participação
 
 Participei do projeto como estudante monitor, auxiliando no desenvolvimento da proposta, organização das ideias, estruturação dos fluxos de atendimento e apoio na construção da lógica do chatbot.
 
 Minha atuação envolveu o acompanhamento do projeto, apoio aos estudantes e contribuição na definição de respostas e funcionalidades voltadas para o atendimento de um pequeno supermercado.
+
+Também participei do processo de organização das tarefas, contribuindo para que o desenvolvimento seguisse uma estrutura mais clara, com divisão de responsabilidades e acompanhamento do andamento das atividades.
 
 ## Aprendizados
 
@@ -59,13 +81,15 @@ Durante o desenvolvimento deste projeto, foram trabalhados aprendizados importan
 - Como transformar necessidades reais em funcionalidades;
 - Como criar fluxos de conversa simples e eficientes;
 - Como utilizar ferramentas de automação para pequenos negócios;
-- Como organizar um projeto acadêmico com foco em aplicação prática.
+- Como organizar tarefas em equipe utilizando práticas do Scrum;
+- Como desenvolver um projeto acadêmico com foco em aplicação prática;
+- Como aplicar conhecimentos de computação em um problema real.
 
 ## Importância do projeto
 
 O projeto mostra como soluções simples de tecnologia podem ajudar pequenos empreendedores a melhorar o atendimento ao público. Um chatbot bem estruturado pode reduzir dúvidas repetitivas, agilizar respostas e melhorar a experiência do cliente.
 
-Além disso, o projeto contribuiu para a formação prática dos estudantes envolvidos, permitindo aplicar conhecimentos de computação em um cenário real.
+Além disso, o projeto contribuiu para a formação prática dos estudantes envolvidos, permitindo aplicar conhecimentos de computação em um cenário real e desenvolver habilidades técnicas, organizacionais e colaborativas.
 
 ## Autor
 
